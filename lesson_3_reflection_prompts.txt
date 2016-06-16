@@ -16,7 +16,8 @@ Fork when I have to copy on Github. Clones when we need to copy a repository. Br
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+We can see the changes without going online 
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
